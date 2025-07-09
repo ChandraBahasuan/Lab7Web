@@ -1,5 +1,4 @@
-*Praktikum 1: PHP Framework (Codeigniter)*
-
+**Praktikum 1: PHP Framework (Codeigniter)**
 Tujuan
 1. Mahasiswa mampu memahami konsep dasar Framework.
 2. Mahasiswa mampu memahami konsep dasar MVC.
